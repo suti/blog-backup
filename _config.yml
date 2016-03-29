@@ -5,7 +5,7 @@
 # Site
 title: lixy.space
 subtitle: lixy.space
-description:
+description: 才不是死宅呢╭(╯^╰)╮
 author: 布氏程序猿
 language: zh-Hans
 timezone:
@@ -75,3 +75,4 @@ deploy:
 ## others:theme
 duoshuo_shortname: lixy
 google_analytics: UA-75653347-1
+avatar: /images/avatar.png
